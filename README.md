@@ -1,0 +1,1 @@
+This project aims to recreate the Google search page, minus any of the actual functionality.
